@@ -1,6 +1,7 @@
 # Clone Discord
 
-![](/discord.png)
+
+[click here for see](https://practical-swartz-e84cc6.netlify.app/)
 
 
 ## Project setup
